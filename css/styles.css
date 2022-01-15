@@ -1,0 +1,12 @@
+html, body{
+    margin: 0;
+    background-color: black;
+    overflow: hidden;
+    
+}
+
+div.circle{
+    display: inline-block;
+    position:absolute;
+    /*border-radius:50%;*/
+}
